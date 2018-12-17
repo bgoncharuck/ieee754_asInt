@@ -78,87 +78,47 @@ function bitflag (bit) {
 }
 
 module.exports = {
-	bitflag: (bit) => {
+/*
+	bitflag: (bit) => ,
 
-	},
+	bitenabled: (num, bit) => ,
 
-	bitenabled: (num, bit) => {
+	bitand: (a, b) => ,
 
-	},
+	bitor: (a, b) => ,
 
-	bitand: (a, b) => {
+	bitnot: (num) => ,
 
-	},
+	bitnotand: (a, b) => ,
 
-	bitor: (a, b) => {
+	bitnotor: (a, b) => ,
 
-	},
+	bitxor: (a, b) => ,
 
-	bitnot (a, b) => {
+	bitshift_right: (num, size) => ,
 
-	},
+	bitshift_left: (num, size) => ,
 
-	bitnotand (a, b) => {
+	bigger: (what, then) => ,
 
-	},
+	lesser: (what, then) => ,
 
-	bitnotor (a, b) => {
+	equal: (what, to) => ,
 
-	},
+	biggerequal: (what, then) => ,
 
-	bitxor (a, b) => {
+	lesserequal: (what, then) => ,
 
-	},
+	compare: (a, b) => ,
 
-	bitshift_right: (num, size) => {
+	outofmax: (to, test) => ,
 
-	},
+	outofmin: (to, test) => ,
 
-	bitshift_left: (num, size) => {
+	isBaseOfTwo: (num) => ,
 
-	},
+	toBaseOfTwo: (num, base) => ,
 
-	bigger: (what, then) => {
-
-	},
-
-	lesser: (what, then) => {
-
-	},
-
-	equal: (what, to) => {
-
-	},
-
-	biggerequal: (what, then) => {
-
-	},
-
-	lesserequal: (what, then) => {
-
-	},
-
-	compare: (a, b) => {
-
-	},
-
-	outofmax: (to, test) => {
-
-	},
-
-	outofmin: (to, test) => {
-
-	},
-
-	isBaseOfTwo (num) => {
-
-	},
-
-	toBaseOfTwo (num, base) => {
-
-	},
-
-	fromBaseOfTwo (num, base) => {
-
-	}
+	fromBaseOfTwo: (num, base) =>
+*/
 };
